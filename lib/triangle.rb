@@ -1,7 +1,7 @@
 class Triangle
   # write code here
   
-  attr_accessor :equilateral, :isosceles,
+  attr_accessor :equilateral, :isosceles, :scalene
 
   
   
